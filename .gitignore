@@ -1,6 +1,7 @@
 #This is the files that will not be tracked in Git
 
 
-/.idea/
-/target/
+.idea/
+target/
 *.iml
+*.xml
