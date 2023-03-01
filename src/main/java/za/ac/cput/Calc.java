@@ -20,4 +20,14 @@ public class Calc {
     public static double add(double a, double b) {
         return (a + b);
     }
+
+    /**
+     * adds two String values
+     * @param a String
+     * @param b String
+     * @return String
+     */
+    public static String add(String a, String b) {
+        return (a + b);
+    }
 }
